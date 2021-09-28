@@ -1,0 +1,15 @@
+altgraph==0.17.2
+future==0.18.2
+importlib-metadata==4.8.1
+numpy==1.21.2
+pefile==2021.9.3
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQt5-stubs==5.15.2.0
+pyqtgraph==0.12.2
+pywin32-ctypes==0.2.0
+typing-extensions==3.10.0.2
+zipp==3.5.0
