@@ -8,7 +8,7 @@ INSTRUCCIONES:
 
 2-Introducimos IP a conectar, 192.168.0.201 es la predeterminada.
    
-  <img src=https://user-images.githubusercontent.com/29064788/135074317-c543c503-159b-49e4-8994-496940dae7c6.png/>
+  <img src="https://user-images.githubusercontent.com/29064788/135074317-c543c503-159b-49e4-8994-496940dae7c6.png" />
 
 3.Pulsamos Run, en caso de conectar aparecerá un plot.
 ![image](https://user-images.githubusercontent.com/29064788/135074358-9eb67371-c342-4a64-8b9c-fc8af4f0557e.png)
