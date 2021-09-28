@@ -1,3 +1,6 @@
+
+<p align="center">
+   
 "# Interface-for-connection-TCP-IP-with-the-module-WIFI-RS232-Elfin-EW10A" 
 
 INSTRUCCIONES:
@@ -21,5 +24,6 @@ INSTRUCCIONES:
 En caso de no conectar: Recordar la arquitectura de la red.
 ![image](https://user-images.githubusercontent.com/29064788/135074493-15eb859d-4b94-4184-844b-5545d0ebf0d9.png)
 
+</p>
 
 
